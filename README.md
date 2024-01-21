@@ -1,0 +1,1 @@
+#Update the DB of the function in the path: /lambda/src/config/database.js 
